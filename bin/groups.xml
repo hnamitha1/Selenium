@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Ecommerce" parallel="false">
+  <test name="User">
+  	<groups>
+  		<run>
+  			<include name="sanity"/>
+  		</run>
+	    <classes>
+	      <class name="testngecommer.NewTest"/>
+	    </classes>
+    </groups>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

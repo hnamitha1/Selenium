@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="testngpractice.AddClass"/>
+      <class name="testngpractice.DeleteClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
